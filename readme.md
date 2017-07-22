@@ -1,4 +1,4 @@
-#Flashcard Generator (CLI)
+# Flashcard Generator (CLI)
 
 This is a simple Command Line Application for creating and reading either Basic (Front/Back) or Cloze (Partial) flashcards.
 
